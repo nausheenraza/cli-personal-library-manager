@@ -79,7 +79,7 @@ class LibraryManager:
 
     def run(self):
         while True:
-            print("\n=== Library Manager ===")
+            print("\n=== Library Manager by Nausheen===")
             print("1. Add a book")
             print("2. Remove a book")
             print("3. Search for a book")
